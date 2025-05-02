@@ -6,10 +6,10 @@ public class PatoBorracha : Pato, IQuack
     public PatoBorracha(string nome, string cor, double peso) : base(nome, cor, peso){
     }
     public void Quack(){
-        Console.WriteLine("O Pato de borracha grasnou!");
+        Console.WriteLine($"O Pato de borracha {nome} grasnou!");
     }
     override public void Nadar(){
-        Console.WriteLine("O Pato de borracha nadou!");
+        Console.WriteLine($"O Pato de borracha {nome} nadou!");
     }
     public override void display(){
         Console.WriteLine($"Pato de borracha:\nNome = {nome}, Cor = {cor}, Peso = {peso}kg");

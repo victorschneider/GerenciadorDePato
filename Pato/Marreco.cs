@@ -7,15 +7,15 @@ public class Marreco : Pato, IQuack, IVoar
 	public Marreco(string nome, string cor, double peso) : base(nome, cor, peso){
 	}
     public void Quack(){
-        Console.WriteLine("O marreco grasnou!");
+        Console.WriteLine($"O marreco {nome} grasnou!");
     }
 
     public void Voar(){
-        Console.WriteLine("O marreco voou!");
+        Console.WriteLine($"O marreco {nome} voou!");
     }
     
     override public void Nadar(){
-        Console.WriteLine("O marreco nadou!");
+        Console.WriteLine($"O marreco {nome} nadou!");
     }
 
     public override void display(){

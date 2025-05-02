@@ -7,15 +7,15 @@ public class PatoCabecaVermelha : Pato, IQuack, IVoar
     }
 
     public void Quack(){
-        Console.WriteLine("O pato cabeca vermelha grasnou!");
+        Console.WriteLine($"O pato cabeca vermelha {nome} grasnou!");
     }
 
     public void Voar(){
-        Console.WriteLine("O pato cabeca vermelha voou!");
+        Console.WriteLine($"O pato cabeca vermelha {nome} voou!");
     }
     
     override public void Nadar(){
-        Console.WriteLine("O pato cabeca vermelha nadou!");
+        Console.WriteLine($"O pato cabeca vermelha {nome} nadou!");
     }
 
     
