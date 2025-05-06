@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\smf19\\OneDrive\\Documentos\\Faculdade Igor\\POO\\Nova pasta\\GerenciadorDePato\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CFAF773-3A94-0BE8-D046-DA68576E7817}|Atividade grupo.csproj|c:\\users\\smf19\\onedrive\\documentos\\faculdade igor\\poo\\nova pasta\\gerenciadordepato\\pato\\marreco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CFAF773-3A94-0BE8-D046-DA68576E7817}|Atividade grupo.csproj|solutionrelative:pato\\marreco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0CFAF773-3A94-0BE8-D046-DA68576E7817}|Atividade grupo.csproj|c:\\users\\smf19\\onedrive\\documentos\\faculdade igor\\poo\\nova pasta\\gerenciadordepato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CFAF773-3A94-0BE8-D046-DA68576E7817}|Atividade grupo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFAF773-3A94-0BE8-D046-DA68576E7817}|Atividade grupo.csproj|c:\\users\\smf19\\onedrive\\documentos\\faculdade igor\\poo\\nova pasta\\gerenciadordepato\\pato\\patoborracha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFAF773-3A94-0BE8-D046-DA68576E7817}|Atividade grupo.csproj|solutionrelative:pato\\patoborracha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFAF773-3A94-0BE8-D046-DA68576E7817}|Atividade grupo.csproj|c:\\users\\smf19\\onedrive\\documentos\\faculdade igor\\poo\\nova pasta\\gerenciadordepato\\pato\\pato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFAF773-3A94-0BE8-D046-DA68576E7817}|Atividade grupo.csproj|solutionrelative:pato\\pato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CFAF773-3A94-0BE8-D046-DA68576E7817}|Atividade grupo.csproj|c:\\users\\smf19\\onedrive\\documentos\\faculdade igor\\poo\\nova pasta\\gerenciadordepato\\interfaces\\ivoar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +23,12 @@
       "RelativeMoniker": "D:0:0:{0CFAF773-3A94-0BE8-D046-DA68576E7817}|Atividade grupo.csproj|solutionrelative:interfaces\\iquack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0CFAF773-3A94-0BE8-D046-DA68576E7817}|Atividade grupo.csproj|c:\\users\\smf19\\onedrive\\documentos\\faculdade igor\\poo\\nova pasta\\gerenciadordepato\\pato\\marreco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFAF773-3A94-0BE8-D046-DA68576E7817}|Atividade grupo.csproj|solutionrelative:pato\\marreco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0CFAF773-3A94-0BE8-D046-DA68576E7817}|Atividade grupo.csproj|c:\\users\\smf19\\onedrive\\documentos\\faculdade igor\\poo\\nova pasta\\gerenciadordepato\\pato\\patocabecavermelha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CFAF773-3A94-0BE8-D046-DA68576E7817}|Atividade grupo.csproj|solutionrelative:pato\\patocabecavermelha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CFAF773-3A94-0BE8-D046-DA68576E7817}|Atividade grupo.csproj|c:\\users\\smf19\\onedrive\\documentos\\faculdade igor\\poo\\nova pasta\\gerenciadordepato\\pato\\patoborracha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CFAF773-3A94-0BE8-D046-DA68576E7817}|Atividade grupo.csproj|solutionrelative:pato\\patoborracha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CFAF773-3A94-0BE8-D046-DA68576E7817}|Atividade grupo.csproj|c:\\users\\smf19\\onedrive\\documentos\\faculdade igor\\poo\\nova pasta\\gerenciadordepato\\pato\\pato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CFAF773-3A94-0BE8-D046-DA68576E7817}|Atividade grupo.csproj|solutionrelative:pato\\pato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,46 +54,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "PatoCabecaVermelha.cs",
               "DocumentMoniker": "C:\\Users\\smf19\\OneDrive\\Documentos\\Faculdade Igor\\POO\\Nova pasta\\GerenciadorDePato\\Pato\\PatoCabecaVermelha.cs",
               "RelativeDocumentMoniker": "Pato\\PatoCabecaVermelha.cs",
               "ToolTip": "C:\\Users\\smf19\\OneDrive\\Documentos\\Faculdade Igor\\POO\\Nova pasta\\GerenciadorDePato\\Pato\\PatoCabecaVermelha.cs",
               "RelativeToolTip": "Pato\\PatoCabecaVermelha.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T17:46:27.567Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "PatoBorracha.cs",
               "DocumentMoniker": "C:\\Users\\smf19\\OneDrive\\Documentos\\Faculdade Igor\\POO\\Nova pasta\\GerenciadorDePato\\Pato\\PatoBorracha.cs",
               "RelativeDocumentMoniker": "Pato\\PatoBorracha.cs",
               "ToolTip": "C:\\Users\\smf19\\OneDrive\\Documentos\\Faculdade Igor\\POO\\Nova pasta\\GerenciadorDePato\\Pato\\PatoBorracha.cs",
               "RelativeToolTip": "Pato\\PatoBorracha.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T17:46:13.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Pato.cs",
               "DocumentMoniker": "C:\\Users\\smf19\\OneDrive\\Documentos\\Faculdade Igor\\POO\\Nova pasta\\GerenciadorDePato\\Pato\\Pato.cs",
               "RelativeDocumentMoniker": "Pato\\Pato.cs",
               "ToolTip": "C:\\Users\\smf19\\OneDrive\\Documentos\\Faculdade Igor\\POO\\Nova pasta\\GerenciadorDePato\\Pato\\Pato.cs",
               "RelativeToolTip": "Pato\\Pato.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T17:45:24.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Ivoar.cs",
               "DocumentMoniker": "C:\\Users\\smf19\\OneDrive\\Documentos\\Faculdade Igor\\POO\\Nova pasta\\GerenciadorDePato\\interfaces\\Ivoar.cs",
               "RelativeDocumentMoniker": "interfaces\\Ivoar.cs",
@@ -106,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IQuack.cs",
               "DocumentMoniker": "C:\\Users\\smf19\\OneDrive\\Documentos\\Faculdade Igor\\POO\\Nova pasta\\GerenciadorDePato\\interfaces\\IQuack.cs",
               "RelativeDocumentMoniker": "interfaces\\IQuack.cs",
@@ -119,26 +119,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Marreco.cs",
               "DocumentMoniker": "C:\\Users\\smf19\\OneDrive\\Documentos\\Faculdade Igor\\POO\\Nova pasta\\GerenciadorDePato\\Pato\\Marreco.cs",
               "RelativeDocumentMoniker": "Pato\\Marreco.cs",
-              "ToolTip": "C:\\Users\\smf19\\OneDrive\\Documentos\\Faculdade Igor\\POO\\Nova pasta\\GerenciadorDePato\\Pato\\Marreco.cs*",
-              "RelativeToolTip": "Pato\\Marreco.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\smf19\\OneDrive\\Documentos\\Faculdade Igor\\POO\\Nova pasta\\GerenciadorDePato\\Pato\\Marreco.cs",
+              "RelativeToolTip": "Pato\\Marreco.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T17:44:53.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\smf19\\OneDrive\\Documentos\\Faculdade Igor\\POO\\Nova pasta\\GerenciadorDePato\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\smf19\\OneDrive\\Documentos\\Faculdade Igor\\POO\\Nova pasta\\GerenciadorDePato\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwBwAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwBcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T17:42:21.182Z",
               "EditorCaption": ""

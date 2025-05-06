@@ -5,60 +5,71 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Simulador de Patos!");
+        
+        Marreco marreco = new Marreco("Patudo", "Marrom", 2.5);
+        PatoBorracha patoBorracha = new PatoBorracha("Petroleo", "Amarelo", 1.2);
+        PatoCabecaVermelha patoCabeca = new PatoCabecaVermelha("Internaciopato", "Vermelho e branco", 2.0);
 
-        Console.WriteLine("Escolha seu tipo de pato:");
-        Console.WriteLine("1 - Marreco / 2 - Pato de Borracha / 3 - Pato Cabeça Vermelha");
-        string tipoEscolhido = Console.ReadLine();
-
-        Console.Write("Digite o nome do pato: ");
-        string nome = Console.ReadLine();
-
-        Console.Write("Digite a cor do pato: ");
-        string cor = Console.ReadLine();
-
-        double peso = 0;
-        while (true)
+        bool continuar = true;
+        while (continuar)
         {
-            Console.Write("Digite o peso do pato (kg): ");
-            if (double.TryParse(Console.ReadLine(), out peso))
-                break;
-            Console.WriteLine("Peso inválido. Tente novamente.");
+            Console.Clear();
+            Console.WriteLine("=== MENU DOS PATOS ===");
+            Console.WriteLine("1 - Ver Marreco");
+            Console.WriteLine("2 - Ver Pato de Borracha");
+            Console.WriteLine("3 - Ver Pato Cabeça Vermelha");
+            Console.WriteLine("0 - Sair");
+            Console.Write("Escolha uma opção: ");
+
+            string opcao = Console.ReadLine()!;
+
+            switch (opcao)
+            {
+                case "1":
+                    MostrarInfoPato(marreco);
+                    break;
+                case "2":
+                    MostrarInfoPato(patoBorracha);
+                    break;
+                case "3":
+                    MostrarInfoPato(patoCabeca);
+                    break;
+                case "0":
+                    continuar = false;
+                    break;
+                default:
+                    Console.WriteLine("Opção inválida. Pressione ENTER para continuar.");
+                    Console.ReadLine();
+                    break;
+            }
         }
 
-        Pato.Pato patoCriado = null; 
-
-        switch (tipoEscolhido)
+        static void MostrarInfoPato(Pato.Pato pato)
         {
-            case "1":
-                patoCriado = new Marreco(nome, cor, peso);
-                break;
-            case "2":
-                patoCriado = new PatoBorracha(nome, cor, peso);
-                break;
-            case "3":
-                patoCriado = new PatoCabecaVermelha(nome, cor, peso);
-                break;
-            default:
-                Console.WriteLine("Tipo inválido. Encerrando.");
-                return;
+            Console.Clear();
+            pato.display();
+
+            if (pato is IQuack quacker)
+                quacker.Quack();
+
+            if (pato is IVoar voador)
+                voador.Voar();
+
+            pato.Nadar();
+
+            Console.WriteLine("\n1 - Selecionar este pato");
+            Console.WriteLine("2 - Voltar ao menu");
+            Console.Write("Escolha uma opção: ");
+            string escolha = Console.ReadLine()!;
+
+            if (escolha == "1")
+            {
+                Console.WriteLine($"\nVocê selecionou o {pato.nome}!");
+                Console.WriteLine("Pressione ENTER para voltar ao menu.");
+                Console.ReadLine();
+            }
         }
 
-        Console.WriteLine("\n--- Pato Criado ---");
-        patoCriado.display();
-        patoCriado.Nadar();
-
-        if (patoCriado is IQuack quackPato)
-        {
-            quackPato.Quack();
-        }
-
-        if (patoCriado is IVoar voadorPato)
-        {
-            voadorPato.Voar();
-        }
-
-        Console.WriteLine("---------------------");
 
     }
 }
