@@ -18,7 +18,7 @@ public class Marreco : Pato, IQuack, IVoar
         Console.WriteLine($"O marreco {nome} nadou!");
     }
 
-    public override void display(){
+    public override void Display(){
         Console.WriteLine($"Marreco:\nNome = {nome}, Cor = {cor}, Peso = {peso}kg");
     }
 }
