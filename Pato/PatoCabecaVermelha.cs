@@ -19,7 +19,7 @@ public class PatoCabecaVermelha : Pato, IQuack, IVoar
     }
 
     
-    public override void display(){
+    public override void Display(){
         Console.WriteLine($"Pato cabeca vermelha:\nNome = {nome}, Cor = {cor}, Peso = {peso}kg");
     }
 }

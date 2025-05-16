@@ -13,7 +13,9 @@ public abstract class Pato
         this.peso = peso;
     }
 
-    public abstract void display();
+    public abstract void Display();
     public abstract void Nadar();
-    // public abstract void Poder();
+
+    // public abstract void Habilidade();
+    //public abstract void DisplayHabilidade();
 }

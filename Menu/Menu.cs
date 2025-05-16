@@ -50,18 +50,23 @@ public class Menu
 
     public static void EscolherPato()
     {
+        Console.Clear();
+        Console.WriteLine("\t=== PATOS ===\n");
         Console.WriteLine("Escolha seu pato:");
     }
     public static void Regras()
     {
-        Console.WriteLine("Regras");
+        Console.Clear();
+        Console.WriteLine("\t=== REGRAS DO JOGO ===\n");
     }
     public static void Creditos()
     {
+        Console.Clear();
         Console.WriteLine("Créditos");
     }
     public static void FimDoPrograma()
     {
+        Console.Clear();
         Console.WriteLine("Fim do programa!");
     }
 }

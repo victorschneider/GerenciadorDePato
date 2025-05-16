@@ -14,7 +14,7 @@ public class PatoBorracha : Pato, IQuack
     {
         Console.WriteLine($"O Pato de borracha {nome} nadou!");
     }
-    public override void display()
+    public override void Display()
     {
         Console.WriteLine($"Pato de borracha:\nNome = {nome}, Cor = {cor}, Peso = {peso}kg");
     }
