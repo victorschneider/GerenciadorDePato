@@ -28,3 +28,18 @@ C:\Users\smf19\OneDrive\Documentos\Faculdade Igor\POO\Nova pasta\GerenciadorDePa
 C:\Users\smf19\OneDrive\Documentos\Faculdade Igor\POO\Nova pasta\GerenciadorDePato\obj\Debug\net8.0\Atividade grupo.pdb
 C:\Users\smf19\OneDrive\Documentos\Faculdade Igor\POO\Nova pasta\GerenciadorDePato\obj\Debug\net8.0\Atividade grupo.genruntimeconfig.cache
 C:\Users\smf19\OneDrive\Documentos\Faculdade Igor\POO\Nova pasta\GerenciadorDePato\obj\Debug\net8.0\ref\Atividade grupo.dll
+C:\Users\C. Gestão do Sucesso\OneDrive\Área de Trabalho\Victor\PUC-Minas\POO\PATO POO\GerenciadorDePato\bin\Debug\net8.0\Atividade grupo.exe
+C:\Users\C. Gestão do Sucesso\OneDrive\Área de Trabalho\Victor\PUC-Minas\POO\PATO POO\GerenciadorDePato\bin\Debug\net8.0\Atividade grupo.deps.json
+C:\Users\C. Gestão do Sucesso\OneDrive\Área de Trabalho\Victor\PUC-Minas\POO\PATO POO\GerenciadorDePato\bin\Debug\net8.0\Atividade grupo.runtimeconfig.json
+C:\Users\C. Gestão do Sucesso\OneDrive\Área de Trabalho\Victor\PUC-Minas\POO\PATO POO\GerenciadorDePato\bin\Debug\net8.0\Atividade grupo.dll
+C:\Users\C. Gestão do Sucesso\OneDrive\Área de Trabalho\Victor\PUC-Minas\POO\PATO POO\GerenciadorDePato\bin\Debug\net8.0\Atividade grupo.pdb
+C:\Users\C. Gestão do Sucesso\OneDrive\Área de Trabalho\Victor\PUC-Minas\POO\PATO POO\GerenciadorDePato\obj\Debug\net8.0\Atividade grupo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C. Gestão do Sucesso\OneDrive\Área de Trabalho\Victor\PUC-Minas\POO\PATO POO\GerenciadorDePato\obj\Debug\net8.0\Atividade grupo.AssemblyInfoInputs.cache
+C:\Users\C. Gestão do Sucesso\OneDrive\Área de Trabalho\Victor\PUC-Minas\POO\PATO POO\GerenciadorDePato\obj\Debug\net8.0\Atividade grupo.AssemblyInfo.cs
+C:\Users\C. Gestão do Sucesso\OneDrive\Área de Trabalho\Victor\PUC-Minas\POO\PATO POO\GerenciadorDePato\obj\Debug\net8.0\Atividade grupo.csproj.CoreCompileInputs.cache
+C:\Users\C. Gestão do Sucesso\OneDrive\Área de Trabalho\Victor\PUC-Minas\POO\PATO POO\GerenciadorDePato\obj\Debug\net8.0\Atividade grupo.sourcelink.json
+C:\Users\C. Gestão do Sucesso\OneDrive\Área de Trabalho\Victor\PUC-Minas\POO\PATO POO\GerenciadorDePato\obj\Debug\net8.0\Atividade grupo.dll
+C:\Users\C. Gestão do Sucesso\OneDrive\Área de Trabalho\Victor\PUC-Minas\POO\PATO POO\GerenciadorDePato\obj\Debug\net8.0\refint\Atividade grupo.dll
+C:\Users\C. Gestão do Sucesso\OneDrive\Área de Trabalho\Victor\PUC-Minas\POO\PATO POO\GerenciadorDePato\obj\Debug\net8.0\Atividade grupo.pdb
+C:\Users\C. Gestão do Sucesso\OneDrive\Área de Trabalho\Victor\PUC-Minas\POO\PATO POO\GerenciadorDePato\obj\Debug\net8.0\Atividade grupo.genruntimeconfig.cache
+C:\Users\C. Gestão do Sucesso\OneDrive\Área de Trabalho\Victor\PUC-Minas\POO\PATO POO\GerenciadorDePato\obj\Debug\net8.0\ref\Atividade grupo.dll
