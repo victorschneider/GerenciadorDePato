@@ -1,6 +1,6 @@
 namespace Pato;
 
-public class PatoCabecaVermelha : Pato, IQuack, IVoar
+public class PatoCabecaVermelha : Pato, IQuack, IVoar, INadar
 {
     // Construtor da classe PatoCabecaVermelha que chama o construtor da classe base Pato
     public PatoCabecaVermelha(string nome, string cor, double peso) : base(nome, cor, peso){
@@ -14,7 +14,7 @@ public class PatoCabecaVermelha : Pato, IQuack, IVoar
         Console.WriteLine($"O pato cabeca vermelha {nome} voou!");
     }
     
-    override public void Nadar(){
+    public void Nadar(){
         Console.WriteLine($"O pato cabeca vermelha {nome} nadou!");
     }
 

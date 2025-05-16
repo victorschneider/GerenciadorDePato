@@ -1,6 +1,6 @@
 namespace	Pato;
 
-public class Marreco : Pato, IQuack, IVoar
+public class Marreco : Pato, IQuack, IVoar, INadar
 {
 
     // Construtor da classe Marreco que chama o construtor da classe base Pato
@@ -14,11 +14,11 @@ public class Marreco : Pato, IQuack, IVoar
         Console.WriteLine($"O marreco {nome} voou!");
     }
     
-    override public void Nadar(){
+    public void Nadar(){
         Console.WriteLine($"O marreco {nome} nadou!");
     }
 
     public override void Display(){
-        Console.WriteLine($"Marreco:\nNome = {nome}, Cor = {cor}, Peso = {peso}kg");
+        Console.WriteLine($"Marreco:\nNome = {nome}, Cor = {cor}, Peso = {peso}kg 🦆");
     }
 }

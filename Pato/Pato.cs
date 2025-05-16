@@ -14,7 +14,6 @@ public abstract class Pato
     }
 
     public abstract void Display();
-    public abstract void Nadar();
 
     // public abstract void Habilidade();
     //public abstract void DisplayHabilidade();
