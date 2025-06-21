@@ -1,4 +1,4 @@
-namespace Pato;
+namespace Patos;
 
 public class PatoCruzeirense : Pato, IEncantar, IBrigar
 {

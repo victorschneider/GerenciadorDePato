@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Atividade grupo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3cd298bf50da6380f15c655279e460b332cb070")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27def757edd5522110027cb97514f6ab54784ecc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Atividade grupo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Atividade grupo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
